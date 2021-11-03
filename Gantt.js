@@ -83,9 +83,9 @@ const Gantt = props => {
                     children : [
                         { id : 2, name : 'Task 01', workcenter: 'Haas', startDate : '2019-01-12', duration : 2, inactive : false },
                         { id : 3, name : 'Task 02', workcenter: 'Haas', startDate : '2019-01-12', duration : 5, inactive : false },
-                        { id : 4, name : 'Task 03', workcenter: 'Haas', startDate : '2019-01-12', duration : 3, inactive : false },
+                        { id : 4, name : 'Task 03', workcenter: 'Mazak', startDate : '2019-01-12', duration : 3, inactive : false },
                         { id : 5, name : 'Task 04', workcenter: 'Haas', startDate : '2019-01-12', duration : 4, inactive : false },
-                        { id : 6, name : 'Task 05', workcenter: 'Haas', startDate : '2019-01-12', duration : 2, inactive : false }
+                        { id : 6, name : 'Task 05', workcenter: 'Mazak', startDate : '2019-01-12', duration : 2, inactive : false }
                     ]
                 }
             ],

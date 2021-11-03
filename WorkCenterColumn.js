@@ -43,12 +43,12 @@ export default class WorkCenterColumn extends Column {
             //onItem() { cellAlert("Workcenter dropdown clicked") },
             editor : {
                     type  : 'combo',
-                    items : ['Haas', 'Makino', 'Hardinge', 'Tumbler']
+                    items : ['Haas', 'Makino', 'Hardinge', 'Tumbler','Mazak']
                     },
             filterable : {
                 filterField: {
                     type  : 'combo',
-                    items : ['Haas', 'Makino', 'Hardinge', 'Tumbler']
+                    items : ['Haas', 'Makino', 'Hardinge', 'Tumbler','Mazak']
                 }
             }
         };
